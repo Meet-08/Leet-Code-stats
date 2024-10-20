@@ -1,4 +1,5 @@
 # Leet code stats
-This is my first git repository
-<br>
-Made by Meet
+This is leet code stats getter using Api in javascript
+Api used :
+https://leetcode-api-faisalshohag.vercel.app/username<br>
+https://alfa-leetcode-api.onrender.com/username
