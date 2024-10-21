@@ -41,6 +41,7 @@ async function fetchUserData(username) {
         searchBtn.textContent = "Search";
         searchBtn.disabled = false;
         searchBtn.style.cursor = "pointer";
+        statsContainer.style.visibility = "visible";
     }
 }
 
